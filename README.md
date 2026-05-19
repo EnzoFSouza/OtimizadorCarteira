@@ -78,6 +78,15 @@ Gráficos de pizza mostram:
 - Percentual investido em cada ativo
 - Diferença entre os perfis de investidor
 
+<img src = "carteira_Crescimento.png" width = 400px height = 400px></img>
+
+## Conceitos de IA Aplicados
+Este projeto utiliza conceitos clássicos de Inteligência Artificial:
+- Computação Evolutiva
+- Metaheurísticas
+- Busca heurística
+- Otimização multiobjetivo
+- Aprendizagem baseada em população
+
 ## Autor
-Desenvolvido por Enzo Florentino Souza.
-Projeto desenvolvido para estudos em Inteligência Artificial, Algoritmos Genéticos e Otimização de Carteiras.
+Projeto desenvolvido por Enzo Souza para estudos em Inteligência Artificial, Algoritmos Genéticos e Otimização de Carteiras.
